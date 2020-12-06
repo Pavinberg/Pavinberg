@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ☺️ I’m interested in cloud computing frameworks and data center architecture.
+- 🤗 I also like to explore the design and techiniques of programming language.
+- 🌱 Goal: keep things simple, make things smart.
