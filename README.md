@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ☺️ I’m interested in cloud computing frameworks and data center architecture.
+- ☺️ I’m interested in cloud computing frameworks and data center architecture. Recently I'm focusing on cross data center data transimission through WAN and dedicated fibers.
 - 🤗 I also like to explore the design and techiniques of programming language.
-- 🌱 Goal: keep things simple, make things smart.
