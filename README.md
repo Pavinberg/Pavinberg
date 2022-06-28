@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ☺️ I’m interested in cloud computing frameworks and data center architecture. Recently I'm focusing on cross data center data transimission through WAN and dedicated fibers.
-- 🤗 I also like to explore the design and techiniques of programming language.
+- ☺️ I’m interested in cloud computing frameworks and data center architecture. 
+  - My research topics are data center congestion control, flow control and big data processing system.
+  - Recently I'm focusing on congestion control and flow control for cross data center data transimission through WAN and dedicated fibers.
+- 🤗 I also love to explore the design and techiniques of programming language.
